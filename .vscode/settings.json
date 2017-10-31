@@ -1,0 +1,7 @@
+{
+    "eslint.options": {
+        "configFile": "c:/Users/lemac/Work/weby/piskvorky/.eslintrc.json"
+    },
+    "eslint.autoFixOnSave": true,
+    "files.eol": "\n"
+}

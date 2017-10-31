@@ -1,0 +1,14 @@
+.app {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+}
+
+.game {
+    padding: 0 20px 20px 20px;
+    margin: 0 50px 0 50px;
+    background-color:#ff5;
+}
